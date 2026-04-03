@@ -2,7 +2,7 @@
   "name": "Song Downloader",
   "version": "1.0.0",
   "description": "Download YouTube songs as MP3",
-  "main": "sng.js",
+  "main": "song.js",
   "author": "CyberMafia",
   "commands": ["song", "play"]
 }
